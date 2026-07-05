@@ -1,0 +1,8 @@
+{
+  "name": "com.hlmlabs.scenehub.editor",
+  "references": [
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

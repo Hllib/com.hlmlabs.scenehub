@@ -1,0 +1,11 @@
+{
+  "name": "com.hlmlabs.scenehub",
+  "version": "1.0.0",
+  "displayName": "HLM Scene Hub",
+  "description": "A centralized hub for all scenes in the project: search, organize, delete, customize, create a list of favorite scenes, and set default scenes.",
+  "unity": "2022.3",
+  "author": 
+  {
+    "name": "HLM Labs"
+  }
+}
