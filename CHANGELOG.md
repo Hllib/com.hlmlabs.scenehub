@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.0.2] - 2026-07-09
+- Renamed asmdef to a more used standard.
+
 ## [1.0.1] - 2026-07-05
 ### Hotifx
 - Fixed main asmdef naming mismatch.
